@@ -21,7 +21,7 @@ cargo install ravedude
 Then instanciate this template:
 
 ```bash
-cargo generate --git https://github.com/Rahix/avr-hal-template.git
+cargo generate --git https://github.com/Awaiskhan404/avr-hal-templates.git
 ```
 
 You will be prompted to select your board - do so and you're ready to roll!
